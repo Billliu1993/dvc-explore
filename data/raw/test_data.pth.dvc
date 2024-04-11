@@ -1,0 +1,4 @@
+outs:
+- md5: f9630715c2977741b8ba74f317d5f976
+  size: 2916
+  path: test_data.pth

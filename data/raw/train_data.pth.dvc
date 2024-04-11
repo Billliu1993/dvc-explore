@@ -1,0 +1,4 @@
+outs:
+- md5: 9f7e2e405a9e19433431d673e88e3b36
+  size: 14442
+  path: train_data.pth
