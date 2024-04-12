@@ -1,0 +1,4 @@
+outs:
+- md5: cc54f2b2989a4745afee2f0bb3fd19e4
+  size: 19458
+  path: processed_data.pth
